@@ -1,0 +1,1 @@
+{"hidden_size": 8, "learning_rate": 0.01, "epochs": 300, "batch_size": 32, "min_df": 2, "input_size": 8552}
